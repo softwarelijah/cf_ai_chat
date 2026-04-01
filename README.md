@@ -2,6 +2,10 @@
 
 An AI-powered chat agent built on the Cloudflare Agents SDK. The agent remembers conversations across sessions, can use tools (weather, calculations, scheduling), and runs on Cloudflare's global network via Durable Objects.
 
+## Try it out
+
+See [Running locally](#running-locally) below for setup instructions.
+
 ## Architecture
 
 | Requirement | Cloudflare Product | Implementation |
